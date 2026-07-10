@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/naimisha1169/dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/naimisha1169/dsa/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/naimisha1169/dsa/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/naimisha1169/dsa/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,4 +55,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/naimisha1169/dsa/tree/master/0050-powx-n) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/naimisha1169/dsa/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
