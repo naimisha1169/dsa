@@ -5,9 +5,10 @@ class Solution {
             int r=0,c=0;
             while(r<accounts[0].length){
            c+=accounts[l][r];
-            a=Math.max(a,c);
+           
             r++;
             }
+             a=Math.max(a,c);
             l++;
         }
         return a;
