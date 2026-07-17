@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/naimisha1169/dsa/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/naimisha1169/dsa/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/naimisha1169/dsa/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/naimisha1169/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/naimisha1169/dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2396-strictly-palindromic-number](https://github.com/naimisha1169/dsa/tree/master/2396-strictly-palindromic-number) |
 ## String
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/naimisha1169/dsa/tree/master/0015-3sum) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/naimisha1169/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/naimisha1169/dsa/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/naimisha1169/dsa/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/naimisha1169/dsa/tree/master/0485-max-consecutive-ones) |
@@ -82,5 +84,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/naimisha1169/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/naimisha1169/dsa/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
