@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/naimisha1169/dsa/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/naimisha1169/dsa/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/naimisha1169/dsa/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/naimisha1169/dsa/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/naimisha1169/dsa/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/naimisha1169/dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/naimisha1169/dsa/tree/master/1480-running-sum-of-1d-array) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/naimisha1169/dsa/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/naimisha1169/dsa/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/naimisha1169/dsa/tree/master/1929-concatenation-of-array) |
 ## Matrix
@@ -77,4 +79,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/naimisha1169/dsa/tree/master/2396-strictly-palindromic-number) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/naimisha1169/dsa/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
