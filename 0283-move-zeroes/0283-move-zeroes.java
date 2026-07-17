@@ -4,11 +4,10 @@ class Solution {
       for(int i=0;i<nums.length;i++){
         if(nums[i]!=0){
             int t=nums[i];
-            nums[i]=nums[i-n];
-            nums[i-n]=t;
+            nums[i]=nums[n];
+            nums[n]=t;
+            n++;
         }
-        else n++;
       }  
-      System.out.println(nums);
     }
 }
