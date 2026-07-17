@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/naimisha1169/dsa/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/naimisha1169/dsa/tree/master/0050-powx-n) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/naimisha1169/dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2396-strictly-palindromic-number](https://github.com/naimisha1169/dsa/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/naimisha1169/dsa/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/naimisha1169/dsa/tree/master/0283-move-zeroes) |
+| [2396-strictly-palindromic-number](https://github.com/naimisha1169/dsa/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -71,4 +73,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/naimisha1169/dsa/tree/master/1672-richest-customer-wealth) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/naimisha1169/dsa/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
