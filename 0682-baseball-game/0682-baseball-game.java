@@ -3,11 +3,7 @@ class Solution {
     public int calPoints(String[] operations) {
     Stack<Integer> s=new Stack<>();
     for(String a:operations){
-        if(a.equals("D"))
-        s.push(s.peek()*2);
-        else if(a.equals("C"))
-        s.pop();
-        else if(a.equals("+")){
+        if(a.equals("+")){
         int d=s.pop();
         int b=s.peek();
         
@@ -15,6 +11,10 @@ class Solution {
         
         s.push(d+b);
     }
+        else if(a.equals("C"))
+        s.pop();
+        else if(a.equals("D"))
+        s.push(s.peek()*2);
         else 
         s.push(Integer.parseInt(a));
     }
