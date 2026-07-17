@@ -9,11 +9,11 @@ class Solution {
         s.pop();
         else if(a.equals("+")){
         int d=s.pop();
-        int b=s.pop();
-        int c=d+b;
-        s.push(b);
+        int b=s.peek();
+        
         s.push(d);
-        s.push(c);
+        
+        s.push(d+b);
     }
         else 
         s.push(Integer.parseInt(a));
