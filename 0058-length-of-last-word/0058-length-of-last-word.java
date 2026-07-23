@@ -9,8 +9,6 @@ class Solution {
                 break;
             }
             i--;
-         
-        
         }
         return ss.length();
     }
