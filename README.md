@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naimisha1169/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/naimisha1169/dsa/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/naimisha1169/dsa/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/naimisha1169/dsa/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/naimisha1169/dsa/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naimisha1169/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/naimisha1169/dsa/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/naimisha1169/dsa/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/naimisha1169/dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/naimisha1169/dsa/tree/master/0342-power-of-four) |
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/naimisha1169/dsa/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/naimisha1169/dsa/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/naimisha1169/dsa/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/naimisha1169/dsa/tree/master/0283-move-zeroes) |
 | [2396-strictly-palindromic-number](https://github.com/naimisha1169/dsa/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
