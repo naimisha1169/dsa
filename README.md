@@ -136,4 +136,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/naimisha1169/dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/naimisha1169/dsa/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
