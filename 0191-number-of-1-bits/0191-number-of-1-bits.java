@@ -1,13 +1,11 @@
 class Solution {
     public int hammingWeight(int n) {
-        String s="";
-        int a=0;
-        while(n>0){
-            int c=n%2;
-            if(c==1)
-            a++;
-            n/=2;
+        int count=0;
+        while(n>0)
+        {
+            count=count+(n&1);
+            n=n>>1;
         }
-      return a;
+        return count;
     }
 }
