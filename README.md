@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/naimisha1169/dsa/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/naimisha1169/dsa/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/naimisha1169/dsa/tree/master/0342-power-of-four) |
 ## Number Theory
@@ -147,4 +148,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/naimisha1169/dsa/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/naimisha1169/dsa/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
