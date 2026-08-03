@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/naimisha1169/dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/naimisha1169/dsa/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/naimisha1169/dsa/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/naimisha1169/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/naimisha1169/dsa/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/naimisha1169/dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/naimisha1169/dsa/tree/master/1480-running-sum-of-1d-array) |
@@ -60,11 +61,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/naimisha1169/dsa/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/naimisha1169/dsa/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/naimisha1169/dsa/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/naimisha1169/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/naimisha1169/dsa/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/naimisha1169/dsa/tree/master/0015-3sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/naimisha1169/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/naimisha1169/dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
 |  |
