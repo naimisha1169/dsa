@@ -4,7 +4,7 @@ class Solution {
         int a=0;
         while(n>0){
             int c=n%2;
-            s+=c;if(c==1)
+            if(c==1)
             a++;
             n/=2;
         }
