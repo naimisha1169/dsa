@@ -10,7 +10,6 @@ class Solution {
             } else if (nums[mid] == target) {
                 return mid;
             }
-
         }
         return -1;
     }
