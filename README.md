@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/naimisha1169/dsa/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/naimisha1169/dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/naimisha1169/dsa/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/naimisha1169/dsa/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/naimisha1169/dsa/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/naimisha1169/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/naimisha1169/dsa/tree/master/1260-shift-2d-grid) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/naimisha1169/dsa/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/naimisha1169/dsa/tree/master/0704-binary-search) |
 ## Counting Sort
 |  |
 | ------- |
