@@ -7,9 +7,9 @@ class Solution {
                 prod *= (temp % 10);
                 temp /= 10;
             }
-            if (prod % t == 0) 
+            if (prod % t == 0)
                 return n;
-            
+
             n++;
         }
     }
