@@ -9,7 +9,6 @@ class Solution {
             }
             if (prod % t == 0)
                 return n;
-
             n++;
         }
     }
