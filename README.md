@@ -162,4 +162,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/naimisha1169/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/naimisha1169/dsa/tree/master/0199-binary-tree-right-side-view) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/naimisha1169/dsa/tree/master/0199-binary-tree-right-side-view) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/naimisha1169/dsa/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/naimisha1169/dsa/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
