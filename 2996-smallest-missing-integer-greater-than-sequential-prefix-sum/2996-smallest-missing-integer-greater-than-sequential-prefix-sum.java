@@ -6,7 +6,6 @@ class Solution {
                 sum += nums[i];
             } else
                 break;
-
         }
         Set<Integer> numSet = new HashSet<>();
         for (int num : nums) {
@@ -14,7 +13,6 @@ class Solution {
         }
         while (numSet.contains(sum))
             sum++;
-
         return sum;
     }
 }
