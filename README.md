@@ -188,4 +188,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/naimisha1169/dsa/tree/master/0199-binary-tree-right-side-view) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/naimisha1169/dsa/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
