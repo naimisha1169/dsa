@@ -11,7 +11,6 @@ class Solution {
             present[x] = true;
         }
         for (int i = min + 1; i < max; i++) {
-
             if (!present[i])
                 missing.add(i);
         }
