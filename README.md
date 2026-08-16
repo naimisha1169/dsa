@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/naimisha1169/dsa/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/naimisha1169/dsa/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naimisha1169/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/naimisha1169/dsa/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/naimisha1169/dsa/tree/master/0303-range-sum-query-immutable) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/naimisha1169/dsa/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/naimisha1169/dsa/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/naimisha1169/dsa/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/naimisha1169/dsa/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/naimisha1169/dsa/tree/master/0283-move-zeroes) |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/naimisha1169/dsa/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/naimisha1169/dsa/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/naimisha1169/dsa/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/naimisha1169/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/naimisha1169/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
