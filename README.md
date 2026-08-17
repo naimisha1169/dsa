@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/naimisha1169/dsa/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/naimisha1169/dsa/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/naimisha1169/dsa/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naimisha1169/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/naimisha1169/dsa/tree/master/0283-move-zeroes) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/naimisha1169/dsa/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/naimisha1169/dsa/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/naimisha1169/dsa/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/naimisha1169/dsa/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/naimisha1169/dsa/tree/master/0202-happy-number) |
