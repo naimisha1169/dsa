@@ -206,5 +206,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/naimisha1169/dsa/tree/master/0175-combine-two-tables) |
 | [1068-product-sales-analysis-i](https://github.com/naimisha1169/dsa/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
