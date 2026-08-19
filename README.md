@@ -208,5 +208,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0175-combine-two-tables](https://github.com/naimisha1169/dsa/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/naimisha1169/dsa/tree/master/0176-second-highest-salary) |
+| [0182-duplicate-emails](https://github.com/naimisha1169/dsa/tree/master/0182-duplicate-emails) |
 | [1068-product-sales-analysis-i](https://github.com/naimisha1169/dsa/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
