@@ -192,10 +192,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/naimisha1169/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/naimisha1169/dsa/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/naimisha1169/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/naimisha1169/dsa/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/naimisha1169/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/naimisha1169/dsa/tree/master/0199-binary-tree-right-side-view) |
 ## Database
 |  |
@@ -214,4 +217,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0196-delete-duplicate-emails](https://github.com/naimisha1169/dsa/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/naimisha1169/dsa/tree/master/0511-game-play-analysis-i) |
 | [1068-product-sales-analysis-i](https://github.com/naimisha1169/dsa/tree/master/1068-product-sales-analysis-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/naimisha1169/dsa/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
