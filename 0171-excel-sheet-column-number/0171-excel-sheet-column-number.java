@@ -1,8 +1,8 @@
 class Solution {
     public int titleToNumber(String columnTitle) {
-       long ans=0;
-       for(int i=0;i<columnTitle.length();i++)
-       ans=ans*26+(columnTitle.charAt(i)-'A'+1); 
-       return (int)ans;
+        long ans = 0;
+        for (int i = 0; i < columnTitle.length(); i++)
+            ans = ans * 26 + (columnTitle.charAt(i) - 'A' + 1);
+        return (int) ans;
     }
 }
