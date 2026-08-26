@@ -9,7 +9,7 @@ class Solution {
         }
         int x = k;
         while (set.contains(x)) {
-        x += k;
+            x += k;
         }
         return x;
     }
