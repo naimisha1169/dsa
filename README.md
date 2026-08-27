@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/naimisha1169/dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/naimisha1169/dsa/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/naimisha1169/dsa/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/naimisha1169/dsa/tree/master/0088-merge-sorted-array) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/naimisha1169/dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/naimisha1169/dsa/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/naimisha1169/dsa/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/naimisha1169/dsa/tree/master/0088-merge-sorted-array) |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/naimisha1169/dsa/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/naimisha1169/dsa/tree/master/0402-remove-k-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/naimisha1169/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
