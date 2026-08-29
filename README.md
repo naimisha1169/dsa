@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/naimisha1169/dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/naimisha1169/dsa/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/naimisha1169/dsa/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/naimisha1169/dsa/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/naimisha1169/dsa/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naimisha1169/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/naimisha1169/dsa/tree/master/0283-move-zeroes) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/naimisha1169/dsa/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/naimisha1169/dsa/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/naimisha1169/dsa/tree/master/0704-binary-search) |
 ## Counting Sort
