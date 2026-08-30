@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0196-delete-duplicate-emails](https://github.com/naimisha1169/dsa/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/naimisha1169/dsa/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/naimisha1169/dsa/tree/master/0577-employee-bonus) |
+| [0584-find-customer-referee](https://github.com/naimisha1169/dsa/tree/master/0584-find-customer-referee) |
 | [1068-product-sales-analysis-i](https://github.com/naimisha1169/dsa/tree/master/1068-product-sales-analysis-i) |
 ## Binary Search Tree
 |  |
