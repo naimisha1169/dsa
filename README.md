@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/naimisha1169/dsa/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/naimisha1169/dsa/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/naimisha1169/dsa/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/naimisha1169/dsa/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naimisha1169/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/naimisha1169/dsa/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/naimisha1169/dsa/tree/master/0171-excel-sheet-column-number) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/naimisha1169/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/naimisha1169/dsa/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/naimisha1169/dsa/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/naimisha1169/dsa/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/naimisha1169/dsa/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/naimisha1169/dsa/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/naimisha1169/dsa/tree/master/0171-excel-sheet-column-number) |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/naimisha1169/dsa/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/naimisha1169/dsa/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/naimisha1169/dsa/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/naimisha1169/dsa/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -179,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/naimisha1169/dsa/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/naimisha1169/dsa/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/naimisha1169/dsa/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/naimisha1169/dsa/tree/master/0342-power-of-four) |
