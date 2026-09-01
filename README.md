@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/naimisha1169/dsa/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/naimisha1169/dsa/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/naimisha1169/dsa/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/naimisha1169/dsa/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naimisha1169/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/naimisha1169/dsa/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/naimisha1169/dsa/tree/master/0171-excel-sheet-column-number) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/naimisha1169/dsa/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/naimisha1169/dsa/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/naimisha1169/dsa/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/naimisha1169/dsa/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/naimisha1169/dsa/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naimisha1169/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/naimisha1169/dsa/tree/master/0169-majority-element) |
