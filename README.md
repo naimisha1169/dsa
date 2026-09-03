@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3718-smallest-missing-multiple-of-k](https://github.com/naimisha1169/dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/naimisha1169/dsa/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/naimisha1169/dsa/tree/master/3875-construct-uniform-parity-array-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/naimisha1169/dsa/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1920-build-array-from-permutation](https://github.com/naimisha1169/dsa/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/naimisha1169/dsa/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/naimisha1169/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/naimisha1169/dsa/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
 | ------- |
