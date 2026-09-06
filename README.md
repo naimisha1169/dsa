@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/naimisha1169/dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2396-strictly-palindromic-number](https://github.com/naimisha1169/dsa/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/naimisha1169/dsa/tree/master/2469-convert-the-temperature) |
+| [2769-find-the-maximum-achievable-number](https://github.com/naimisha1169/dsa/tree/master/2769-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/naimisha1169/dsa/tree/master/2843-count-symmetric-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/naimisha1169/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/naimisha1169/dsa/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
