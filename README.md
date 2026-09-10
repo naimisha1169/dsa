@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3110-score-of-a-string](https://github.com/naimisha1169/dsa/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/naimisha1169/dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/naimisha1169/dsa/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/naimisha1169/dsa/tree/master/3794-reverse-string-prefix) |
 ## Array
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/naimisha1169/dsa/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/naimisha1169/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/naimisha1169/dsa/tree/master/2396-strictly-palindromic-number) |
+| [3794-reverse-string-prefix](https://github.com/naimisha1169/dsa/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
