@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/naimisha1169/dsa/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0627-swap-sex-of-employees](https://github.com/naimisha1169/dsa/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/naimisha1169/dsa/tree/master/1068-product-sales-analysis-i) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/naimisha1169/dsa/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Binary Search Tree
 |  |
 | ------- |
