@@ -1,12 +1,8 @@
 class Solution {
     public int differenceOfSums(int n, int m) {
        int a=0,b=0;
-       for(int i=1;i<=n;i++){
-        if(i%m==0) 
-        b+=i;
-        else
-        a+=i;
-       } 
-       return a-b;
+       a=n*(n+1)/2;
+       b=n/m;
+       return a-2*m*b*(b+1)/2;
     }
 }
