@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/naimisha1169/dsa/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/naimisha1169/dsa/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/naimisha1169/dsa/tree/master/0402-remove-k-digits) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/naimisha1169/dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/naimisha1169/dsa/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/naimisha1169/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/naimisha1169/dsa/tree/master/3110-score-of-a-string) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/naimisha1169/dsa/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/naimisha1169/dsa/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/naimisha1169/dsa/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/naimisha1169/dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/naimisha1169/dsa/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/naimisha1169/dsa/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/naimisha1169/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/naimisha1169/dsa/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/naimisha1169/dsa/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/naimisha1169/dsa/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/naimisha1169/dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/naimisha1169/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/naimisha1169/dsa/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/naimisha1169/dsa/tree/master/3925-concatenate-array-with-reverse) |
