@@ -3,8 +3,7 @@ class Solution {
         for (int i = 0; i < nums.length; i++) {
             int j = nums[i], sum = 0;
             while (j > 0) {
-                int a = j % 10;
-                sum += a;
+                sum += j%10;
                 j /= 10;
             }
             if (sum == i)
