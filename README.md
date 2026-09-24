@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3345-smallest-divisible-digit-product-i](https://github.com/naimisha1169/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3516-find-closest-person](https://github.com/naimisha1169/dsa/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/naimisha1169/dsa/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/naimisha1169/dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/naimisha1169/dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/naimisha1169/dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/naimisha1169/dsa/tree/master/3783-mirror-distance-of-an-integer) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/naimisha1169/dsa/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/naimisha1169/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/naimisha1169/dsa/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/naimisha1169/dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/naimisha1169/dsa/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/naimisha1169/dsa/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/naimisha1169/dsa/tree/master/3718-smallest-missing-multiple-of-k) |
