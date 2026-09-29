@@ -7,7 +7,7 @@ class Solution {
             if (nums[i] < pivot) {
                 ans[left++] = nums[i];
             }
-            if (nums[j] > pivot) {
+            if (nums[j] > pivot){
                 ans[right--] = nums[j];
             }
             i++;
