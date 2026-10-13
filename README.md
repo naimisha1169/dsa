@@ -4,8 +4,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naimisha1169/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/naimisha1169/dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/naimisha1169/dsa/tree/master/0013-roman-to-integer) |
@@ -21,8 +21,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3760-maximum-substrings-with-distinct-start](https://github.com/naimisha1169/dsa/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/naimisha1169/dsa/tree/master/3945-digit-frequency-score) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0009-palindrome-number](https://github.com/naimisha1169/dsa/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/naimisha1169/dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/naimisha1169/dsa/tree/master/0013-roman-to-integer) |
@@ -58,8 +58,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3875-construct-uniform-parity-array-i](https://github.com/naimisha1169/dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/naimisha1169/dsa/tree/master/3945-digit-frequency-score) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naimisha1169/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/naimisha1169/dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/naimisha1169/dsa/tree/master/0013-roman-to-integer) |
@@ -81,8 +81,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3760-maximum-substrings-with-distinct-start](https://github.com/naimisha1169/dsa/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/naimisha1169/dsa/tree/master/3794-reverse-string-prefix) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/naimisha1169/dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/naimisha1169/dsa/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/naimisha1169/dsa/tree/master/0027-remove-element) |
@@ -125,8 +125,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3875-construct-uniform-parity-array-i](https://github.com/naimisha1169/dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/naimisha1169/dsa/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/naimisha1169/dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/naimisha1169/dsa/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/naimisha1169/dsa/tree/master/0027-remove-element) |
@@ -139,8 +139,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2396-strictly-palindromic-number](https://github.com/naimisha1169/dsa/tree/master/2396-strictly-palindromic-number) |
 | [3794-reverse-string-prefix](https://github.com/naimisha1169/dsa/tree/master/3794-reverse-string-prefix) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/naimisha1169/dsa/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/naimisha1169/dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/naimisha1169/dsa/tree/master/0169-majority-element) |
@@ -153,31 +153,31 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3727-maximum-alternating-sum-of-squares](https://github.com/naimisha1169/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/naimisha1169/dsa/tree/master/3731-find-missing-elements) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/naimisha1169/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/naimisha1169/dsa/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/naimisha1169/dsa/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/naimisha1169/dsa/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/naimisha1169/dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naimisha1169/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/naimisha1169/dsa/tree/master/0643-maximum-average-subarray-i) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0050-powx-n](https://github.com/naimisha1169/dsa/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/naimisha1169/dsa/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/naimisha1169/dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/naimisha1169/dsa/tree/master/0342-power-of-four) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/naimisha1169/dsa/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/naimisha1169/dsa/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/naimisha1169/dsa/tree/master/1260-shift-2d-grid) |
@@ -191,17 +191,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3701-compute-alternating-sum](https://github.com/naimisha1169/dsa/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/naimisha1169/dsa/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/naimisha1169/dsa/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/naimisha1169/dsa/tree/master/1672-richest-customer-wealth) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/naimisha1169/dsa/tree/master/2396-strictly-palindromic-number) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/naimisha1169/dsa/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/naimisha1169/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/naimisha1169/dsa/tree/master/0144-binary-tree-preorder-traversal) |
@@ -213,91 +213,91 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/naimisha1169/dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/naimisha1169/dsa/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/naimisha1169/dsa/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/naimisha1169/dsa/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/naimisha1169/dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/naimisha1169/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/naimisha1169/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0402-remove-k-digits](https://github.com/naimisha1169/dsa/tree/master/0402-remove-k-digits) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/naimisha1169/dsa/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/naimisha1169/dsa/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/naimisha1169/dsa/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/naimisha1169/dsa/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/naimisha1169/dsa/tree/master/0389-find-the-difference) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/naimisha1169/dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0035-search-insert-position](https://github.com/naimisha1169/dsa/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/naimisha1169/dsa/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/naimisha1169/dsa/tree/master/0704-binary-search) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/naimisha1169/dsa/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/naimisha1169/dsa/tree/master/1512-number-of-good-pairs) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/naimisha1169/dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/naimisha1169/dsa/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/naimisha1169/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/naimisha1169/dsa/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/naimisha1169/dsa/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/naimisha1169/dsa/tree/master/0191-number-of-1-bits) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2843-count-symmetric-integers](https://github.com/naimisha1169/dsa/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/naimisha1169/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/naimisha1169/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/naimisha1169/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/naimisha1169/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/naimisha1169/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/naimisha1169/dsa/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/naimisha1169/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/naimisha1169/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/naimisha1169/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/naimisha1169/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/naimisha1169/dsa/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/naimisha1169/dsa/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/naimisha1169/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/naimisha1169/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/naimisha1169/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/naimisha1169/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/naimisha1169/dsa/tree/master/0199-binary-tree-right-side-view) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0175-combine-two-tables](https://github.com/naimisha1169/dsa/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/naimisha1169/dsa/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/naimisha1169/dsa/tree/master/0182-duplicate-emails) |
@@ -311,15 +311,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1068-product-sales-analysis-i](https://github.com/naimisha1169/dsa/tree/master/1068-product-sales-analysis-i) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/naimisha1169/dsa/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/naimisha1169/dsa/tree/master/0098-validate-binary-search-tree) |
 ## Boyer–Moore Majority Vote Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/naimisha1169/dsa/tree/master/0169-majority-element) |
 ## Bracket Sequences
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/naimisha1169/dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
